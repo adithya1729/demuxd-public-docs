@@ -1,1 +1,3 @@
-# demuxd-public-docs
+# Linked documents
+
+1. Translated Mission Doc (SLATS/Tsubame)
