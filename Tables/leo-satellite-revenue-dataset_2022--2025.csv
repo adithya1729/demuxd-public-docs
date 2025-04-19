@@ -1,0 +1,23 @@
+Constellation,Operator,Service Type,No. of Satellites (Active),Primary Orbit Types,Launch Strategy,Primary Launch Vehicles,Annual Revenue (Latest),Revenue Year,Notes
+Starlink,SpaceX,Communications,"7,105",Non-SSO (53°),Primarily Dedicated,Falcon 9,"$8,700M",2023,Vertically integrated
+Iridium,Iridium Communications,Communications,66,Non-SSO (86.4°),Primarily Dedicated,Falcon 9,$701.8M,2022,–
+GlobalStar,Globalstar Inc.,Communications,25,Non-SSO (52°),Mixed,Soyuz/Delta,$135.3M,2024,–
+Planet Labs,Planet,Earth Observation,~200,SSO (98°),Primarily Rideshare,Various,$191.3M,2022,Includes Dove and SkySat
+BlackSky,BlackSky,Earth Observation,14,SSO & Mid-inclination,Primarily Dedicated,Electron,$102.1M,2024,–
+OneWeb,Eutelsat Group,Communications,648,Polar (87.9°),Primarily Dedicated,"Soyuz, Falcon 9",–,–,Revenue integrated into Eutelsat's reports
+O3b mPOWER,SES,Communications,6,"MEO (8,000 km)",Primarily Dedicated,Falcon 9,–,–,Revenue included in SES's total earnings
+Telesat Lightspeed,Telesat,Communications,0 (planned),Polar & Inclined,Planned Dedicated,Falcon 9,–,–,Launches planned for 2026
+Kuiper,Amazon,Communications,0 (planned),LEO (590–630 km),Planned Dedicated,Vulcan Centaur,–,–,First launches planned for 2025
+Swarm,SpaceX,IoT,150,LEO,Rideshare,Falcon 9,–,–,Revenue included in SpaceX's total earnings
+HawkEye 360,HawkEye 360,Earth Observation,21,SSO,Rideshare,Rocket Lab Electron,$29.2M,2023,–
+Spire,Spire Global,Earth Observation,100+,SSO,Rideshare,Various,$105.7M,2023,–
+Capella Space,Capella Space,Earth Observation,10,SSO,Rideshare,"Falcon 9, Electron",–,–,–
+ICEYE,ICEYE,Earth Observation,21,SSO,Rideshare,"Falcon 9, Electron",$100M+,2023,–
+Satellogic,Satellogic,Earth Observation,30+,SSO,Rideshare,Falcon 9,$10.1M,2023,–
+Astrocast,Astrocast,IoT,18,SSO,Rideshare,"PSLV, Falcon 9",–,–,–
+Fleet Space,Fleet Space,IoT,6,LEO,Rideshare,Electron,–,–,–
+Kepler,Kepler Communications,Communications,21,SSO,Rideshare,Falcon 9,$59.7M,2023,–
+Lynk Global,Lynk Global,Communications,3,LEO,Rideshare,Falcon 9,–,–,Revenue generation expected from 2025
+Sateliot,Sateliot,IoT,1,LEO,Rideshare,Falcon 9,$19.8M,2023,–
+Eutelsat LEO,Eutelsat,Communications,0 (planned),LEO,Planned Dedicated,–,–,–,–
+AST SpaceMobile,AST SpaceMobile,Communications,1,LEO,Rideshare,Falcon 9,–,–,–
